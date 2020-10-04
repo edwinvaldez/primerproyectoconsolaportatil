@@ -1,0 +1,82 @@
+.fondo{
+    background: pink;
+    position: relative;
+    height: 35em;
+    width: 70em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.consola{
+    background:red;
+    height: 15em;
+    width: 35em;
+    border-radius: 20% 20% 20% 20%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    overflow: hidden;
+    
+}
+
+.pantalla{
+    height: 90%;
+    width: 70%;
+    background:green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.mando1{
+    height: 100%;
+    width: 15%;
+    background: mediumorchid;
+
+}
+.botones1{
+    height: 20%;
+    width: 100%;
+    background: purple;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.selec{
+  height: 0.5em;
+  width: 1em;
+  background: silver;
+  margin-right: 0.5em;
+  margin-top: 15%;
+  border: black 1px solid;
+}
+.botones2{
+    height: 30%;
+    width: 100%;
+    background: rgb(128, 0, 0);
+}.botones3{
+    height: 30%;
+    width: 100%;
+    background: seashell;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cruceta{
+    height: 4em;
+    width: 4em;
+    background: chartreuse;
+}
+
+.botones4{
+    height: 20%;
+    width: 100%;
+    background: sandybrown;
+}
+.mando2{
+    height: 100%;
+    width: 15%;
+    background: orangered;
+}
