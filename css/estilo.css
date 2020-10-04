@@ -56,7 +56,18 @@
     height: 30%;
     width: 100%;
     background: rgb(128, 0, 0);
-}.botones3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.joystick{
+    background: darkcyan;
+    height: 3em;
+    width: 3em;
+    border-radius: 100% 100% 100% 100%;
+}
+.botones3{
     height: 30%;
     width: 100%;
     background: seashell;
@@ -147,6 +158,17 @@
     height: 20%;
     width: 100%;
     background: sandybrown;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.capd{
+    background: powderblue;
+    height: 1em;
+    width: 1em;
+    margin-right: 0.5em;
+
 }
 .mando2{
     height: 100%;
@@ -154,3 +176,138 @@
     background: orangered;
 
     }
+    .bt1{
+        height: 20%;
+        width: 100%;
+        background: purple;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    
+    }
+    .start{
+        height: 0.5em;
+        width: 1em;
+        background: silver;
+        margin-left: 0.5em;
+        margin-top: 15%;
+        border: black 1px solid;
+      
+    }
+    .bt2{
+        height: 30%;
+        width: 100%;
+        background: seashell;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cz{
+        height: 4em;
+        width: 4em;
+        background: rgb(75, 224, 0);
+        display: flex;
+        flex-direction: column;
+    }
+    .c1{
+        height: 100%;
+        width: 100%;
+        background: crimson;
+        display: flex;
+        flex-direction: row;    
+    }
+    .ca1{
+        background: dodgerblue;
+        height: 100%;
+        width: 33%;
+    
+    }
+    .ca2{
+        background: rgb(19, 78, 27);
+        height: 100%;
+        width: 34%;
+    
+    }
+    .ca3{
+        background: rgb(22, 4, 65);
+        height: 100%;
+        width: 33%;
+    
+    }
+    .c2{
+        height: 100%;
+        width: 100%;
+        background: darkblue;
+        display: flex;
+        flex-direction: row;
+    }
+    .cc1{
+        background: hotpink;
+        height:100% ;
+        width: 33%;
+
+    }
+    .cc2{
+        background: lawngreen;
+        height: 100%;
+        width: 34%;
+    }
+    .cc3{
+        background: magenta;
+        height: 100%;
+        width: 33%;
+
+    }
+    .c3{
+        height: 100%;
+        width: 100%;
+        background: rgb(41, 19, 138);
+        display: flex;
+        flex-direction: row;
+    }
+    .cb1{
+        background: midnightblue;
+        height: 100%;
+        width: 33%;
+    }
+    .cb2{
+        background: orange;
+        height: 100%;
+        width: 34%;    
+    }
+    .cb3{
+        background: plum;
+    height: 100%;
+    width: 33%;
+
+    }
+    .bt3{
+        height: 30%;
+        width: 100%;
+        background: rgb(128, 0, 0);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .jk{
+        background: darkcyan;
+        height: 3em;
+        width: 3em;
+        border-radius: 100% 100% 100% 100%;
+
+    }
+.bt4{
+    height: 20%;
+    width: 100%;
+    background: sandybrown;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.home{
+    background: powderblue;
+    height: 1em;
+    width: 1em;
+    margin-left: 0.5em;
+    border-radius: 100% 100% 100% 100%;
+}
