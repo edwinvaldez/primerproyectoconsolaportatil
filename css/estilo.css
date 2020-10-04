@@ -17,7 +17,7 @@
     position: relative;
     align-items: center;
     overflow: hidden;
-    
+
 }
 
 .pantalla{
@@ -67,7 +67,80 @@
 .cruceta{
     height: 4em;
     width: 4em;
-    background: chartreuse;
+    background: rgb(75, 224, 0);
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.cruz1{
+    height: 100%;
+    width: 100%;
+    background: crimson;
+    display: flex;
+    flex-direction: row;
+
+}
+.cruzarriba1{
+    background: dodgerblue;
+    height: 100%;
+    width: 33%;
+}
+.cruzarriba2{
+    background: rgb(19, 78, 27);
+    height: 100%;
+    width: 34%;
+}
+.cruzarriba3{
+    background: rgb(22, 4, 65);
+    height: 100%;
+    width: 33%;
+}
+.cruz2{
+    height: 100%;
+    width: 100%;
+    background: darkblue;
+    display: flex;
+    flex-direction: row;
+}
+.cruzcentral1{
+    background: hotpink;
+    height:100% ;
+    width: 33%;
+}
+.cruzcentral2{
+    background: lawngreen;
+    height: 100%;
+    width: 34%;
+
+}
+.cruzcentral3{
+    background: magenta;
+    height: 100%;
+    width: 33%;
+}
+.cruz3{
+    height: 100%;
+    width: 100%;
+    background: rgb(41, 19, 138);
+    display: flex;
+    flex-direction: row;
+}
+.cruzbaja1{
+    background: midnightblue;
+    height: 100%;
+    width: 33%;
+
+}
+.cruzbaja2{
+    background: orange;
+    height: 100%;
+    width: 34%;
+}
+.cruzbaja3{
+    background: plum;
+    height: 100%;
+    width: 33%;
 }
 
 .botones4{
@@ -79,4 +152,5 @@
     height: 100%;
     width: 15%;
     background: orangered;
-}
+
+    }
