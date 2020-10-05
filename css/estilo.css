@@ -35,10 +35,10 @@
     height: 90%;
     width: 90%;
     background: darkgrey;
-    border: black 1px solid;
-
+    border: black 2px solid;
+    display: flex;
+    
 }
-
 .mando1{
     height: 100%;
     width: 15%;
@@ -60,7 +60,7 @@
   background: rgb(236, 236, 236);
   margin-right: 0.5em;
   margin-top: 15%;
-  border: black 1px solid;
+  border: black 2px solid;
 }
 .botones2{
     height: 30%;
@@ -77,7 +77,7 @@
     height: 3em;
     width: 3em;
     border-radius: 100% 100% 100% 100%;
-    border: black 1px solid;
+    border: black 2px solid;
 }
 .botones3{
     height: 30%;
@@ -113,9 +113,9 @@
     background:rgb(235, 235, 235);
     height: 100%;
     width: 34%;
-    border-left: black 1px solid;
-    border-top: black 1px solid;
-    border-right: black 1px solid;
+    border-left: black 2px solid;
+    border-top: black 2px solid;
+    border-right: black 2px solid;
 }
 .cruzarriba3{
     background: 214, 10, 10;
@@ -133,9 +133,9 @@
     background: rgb(236, 236, 236);
     height:100% ;
     width: 33%;
-    border-top: black 1px solid;
-    border-left: black 1px solid;
-    border-width: black 1px solid;
+    border-top: black 2px solid;
+    border-left: black 2px solid;
+    border-width: black 2px solid;
 }
 .cruzcentral2{
     background: rgb(236, 236, 236);
@@ -147,9 +147,9 @@
     background: rgb(236, 236, 236);
     height: 100%;
     width: 33%;
-    border-top: black 1px solid;
-    border-right: black 1px solid;
-    border-width: black 1px solid;
+    border-top: black 2px solid;
+    border-right: black 2px solid;
+    border-width: black 2px solid;
 }
 .cruz3{
     height: 100%;
@@ -168,9 +168,9 @@
     background: rgb(236, 236, 236);
     height: 100%;
     width: 34%;
-    border-width: black 1px solid;
-    border-right: black 1px solid;
-    border-left: black 1px solid;
+    border-width: black 2px solid;
+    border-right: black 2px solid;
+    border-left: black 2px solid;
 
 }
 .cruzbaja3{
@@ -193,7 +193,7 @@
     height: 0.7em;
     width: 0.7em;
     margin-right: 0.5em;
-    border: black 1px solid;
+    border: black 2px solid;
 
 }
 .mando2{
@@ -217,7 +217,7 @@
         background: rgb(235, 235, 235);
         margin-left: 0.5em;
         margin-top: 15%;
-        border: black 1px solid;
+        border: black 2px solid;
       
     }
     .bt2{
@@ -253,7 +253,7 @@
         height: 100%;
         width: 34%;
         border-radius: 100% 100% 100% 100%;
-        border: black 1px solid;
+        border: black 2px solid;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -277,7 +277,7 @@
         height:100% ;
         width: 33%;
         border-radius: 100% 100% 100% 100%;
-        border: black 1px solid;
+        border: black 2px solid;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -293,7 +293,7 @@
         height: 100%;
         width: 33%;
         border-radius:100% 100% 100% 100% ;
-        border: black 1px solid;
+        border: black 2px solid;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -316,7 +316,7 @@
         height: 100%;
         width: 34%;
         border-radius: 100% 100% 100% 100%;
-        border: black 1px solid;
+        border: black 2px solid;
         display: flex;
         justify-content: center;
         align-items: center;  
@@ -340,7 +340,7 @@
         height: 3em;
         width: 3em;
         border-radius: 100% 100% 100% 100%;
-        border: black 1px solid;
+        border: black 2px solid;
 
     }
 .bt4{
@@ -357,5 +357,5 @@
     width: 1em;
     margin-left: 0.5em;
     border-radius: 100% 100% 100% 100%;
-    border: black 1px solid;
+    border: black 2px solid;
 }
