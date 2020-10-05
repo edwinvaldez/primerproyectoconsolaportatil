@@ -17,7 +17,7 @@
     position: relative;
     align-items: center;
     overflow: hidden;
-    border: black 2px solid;
+    border: black 3px solid;
 
 }
 
@@ -78,6 +78,7 @@
     width: 3em;
     border-radius: 100% 100% 100% 100%;
     border: black 2px solid;
+    z-index: 2;
 }
 .botones3{
     height: 30%;
@@ -116,6 +117,7 @@
     border-left: black 2px solid;
     border-top: black 2px solid;
     border-right: black 2px solid;
+    z-index: 2;
 }
 .cruzarriba3{
     background: 214, 10, 10;
@@ -135,7 +137,8 @@
     width: 33%;
     border-top: black 2px solid;
     border-left: black 2px solid;
-    border-width: black 2px solid;
+    border-bottom: black 2px solid;
+    z-index: 2;
 }
 .cruzcentral2{
     background: rgb(236, 236, 236);
@@ -149,7 +152,8 @@
     width: 33%;
     border-top: black 2px solid;
     border-right: black 2px solid;
-    border-width: black 2px solid;
+    border-bottom: black 2px solid;
+    z-index: 2;
 }
 .cruz3{
     height: 100%;
@@ -168,9 +172,10 @@
     background: rgb(236, 236, 236);
     height: 100%;
     width: 34%;
-    border-width: black 2px solid;
+    border-bottom: black 2px solid;
     border-right: black 2px solid;
     border-left: black 2px solid;
+    z-index: 2;
 
 }
 .cruzbaja3{
@@ -257,6 +262,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        z-index: 2;
     
     }
     .ca3{
@@ -281,6 +287,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        z-index: 2;
 
     }
     .cc2{
@@ -297,6 +304,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        z-index: 2;
 
     }
     .c3{
@@ -319,7 +327,8 @@
         border: black 2px solid;
         display: flex;
         justify-content: center;
-        align-items: center;  
+        align-items: center;
+        z-index: 2;
     }
     .cb3{
         background: 214, 10, 10;
